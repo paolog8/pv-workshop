@@ -1,0 +1,2 @@
+recursive-include * nomad_plugin.yaml
+graft src/pv_workshop/example_uploads

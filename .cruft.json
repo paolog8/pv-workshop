@@ -1,0 +1,29 @@
+{
+  "template": "https://github.com/FAIRmat-NFDI/cookiecutter-nomad-pv-plugin",
+  "commit": "5ac9c0661bb27feba4dead22f49aacd16712f34e",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Paolo Graniero",
+      "email": "paolo.graniero@helmholtz-berlin.de",
+      "github_username": "paolog8",
+      "plugin_name": "pv-workshop",
+      "module_name": "pv_workshop",
+      "lab_name": "pg_pv",
+      "short_description": "Nomad example template",
+      "version": "0.1.0",
+      "license": "BSD-3",
+      "include_schema_package": true,
+      "include_normalizer": true,
+      "include_parser": true,
+      "include_app": true,
+      "include_example_uploads": true,
+      "_copy_without_render": [
+        "*.html"
+      ],
+      "_template": "https://github.com/FAIRmat-NFDI/cookiecutter-nomad-pv-plugin",
+      "_commit": "5ac9c0661bb27feba4dead22f49aacd16712f34e"
+    }
+  },
+  "directory": null
+}
